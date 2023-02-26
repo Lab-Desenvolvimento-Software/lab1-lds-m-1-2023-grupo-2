@@ -8,9 +8,9 @@
 
 [Clique aqui para ver o código](./implementacao/)
 
- ![](./projeto/imagens-colaboradores/colaborador1.jpg)
- ![](./projeto/imagens-colaboradores/colaborador2.jpeg)
- ![](./projeto/imagens-colaboradores/colaborador3.png)
+ ![](./projeto/imagens/colaborador1.jpg)
+ ![](./projeto/imagens/colaborador2.jpeg)
+ ![](./projeto/imagens/colaborador3.png)
 
  | Colaboradores |
  | --- |
