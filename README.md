@@ -9,8 +9,8 @@
 [Clique aqui para ver o código](./implementacao/)
 
  ![](./projeto/imagens-colaboradores/colaborador1.jpg)
- ![](./projeto/imagens-colaboradores/ericperfil.jpeg)
- ![](./projeto/imagens-colaboradores/olivierperfil.png)
+ ![](./projeto/imagens-colaboradores/colaborador2.jpeg)
+ ![](./projeto/imagens-colaboradores/colaborador3.png)
 
  | Colaboradores |
  | --- |
