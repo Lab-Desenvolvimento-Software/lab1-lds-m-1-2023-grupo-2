@@ -1,6 +1,6 @@
 # Diagrama de caso de uso
 
-![](./imagens/diagram-user-case-image.png)
+![](./imagens/diagram-user-case-imageV2.png)
 
 ## Descrição do sistema
 
