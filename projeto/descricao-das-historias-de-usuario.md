@@ -2,7 +2,7 @@
 
 Uma história de usuário é uma forma enxuta de escrever um requisito de projeto.
 
-* **Como** ator intermediário (usuário final) **eu quero** poder efetuar meu login, com nome de usuário e senha, **para que** eu consiga ter acesso ao sistema e manter minhas informações pessoais protegidas.
+* **Como** usuário **eu quero** poder efetuar meu login, com nome de usuário e senha, **para que** eu consiga ter acesso ao sistema e manter minhas informações pessoais protegidas.
 
 * **Como** aluno **eu quero** poder me matricular em disciplinas, por meio do sistema, **para que** eu possa montar minha grade curricular dentro do conforto de casa.
 
