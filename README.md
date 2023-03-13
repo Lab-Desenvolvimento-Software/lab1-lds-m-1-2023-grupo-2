@@ -5,7 +5,9 @@
 **Grupo 2**
 
 [Clique aqui para acessar o diagrama de classes!](./projeto/diagrama-de-classes.md)
+
 [Clique aqui para acessar o diagrama dos casos de uso!](./projeto/diagrama-de-caso-de-uso.md)
+
 [Clique aqui para acessar as histórias de usuário!](./projeto/descricao-das-historias-de-usuario.md)
 
 [Clique aqui para ver o código!](./implementacao/)
