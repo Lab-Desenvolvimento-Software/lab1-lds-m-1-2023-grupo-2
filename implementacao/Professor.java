@@ -7,7 +7,12 @@ public class Professor extends Usuario {
         super(id,username,password,nome);
     }
 
-    public void vincularEmDisciplina(){
-
+    public ArrayList<Aluno> conferirAlunos(Disciplina disciplina){
+        return disciplina.getAlunos();
+    }
+    public boolean vincularEmDisciplina(Disciplina disciplina){
+        disciplina.matricularProfessor(new Professor(getId(),getUsername(),getPassword(),getNome()));
+        disciplinas.add(disciplina);
+        return true;
     }
 }

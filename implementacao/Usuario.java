@@ -3,7 +3,12 @@ public abstract class Usuario {
     private String username;
     private int password;
     private String nome;
-    public void login() {
+
+    public boolean login(int password) {
+        if(password == this.password){
+            return true;
+        }
+        return false;
     }
 
     public Usuario(int id, String username,int password,String nome){
@@ -11,5 +16,21 @@ public abstract class Usuario {
         this.username = username;
         this.password = password;
         this.nome = nome;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public int getPassword() {
+        return password;
+    }
+
+    public String getNome() {
+        return nome;
     }
 }

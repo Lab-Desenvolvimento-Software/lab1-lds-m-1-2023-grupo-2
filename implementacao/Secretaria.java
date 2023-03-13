@@ -10,7 +10,7 @@ public class Secretaria extends Usuario {
     public Professor cadastrarProfessor(int id, String username,int password,String nome){
        return new Professor(id,username,password,nome);
     }
-    public Aluno cadastraAluno(int id, String username,int password,String nome){
+    public Aluno cadastrarAluno(int id, String username,int password,String nome){
         return new Aluno(id,username,password,nome);
     }
     public Secretaria cadastrarSecretaria(int id, String username,int password,String nome){

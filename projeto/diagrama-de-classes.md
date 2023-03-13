@@ -1,6 +1,6 @@
 # Diagrama de classes
 
-![](./imagens/class-diagram-UMLV2.png)
+![](./imagens/class-diagram-UMLV3.png)
 
 ## Descrição do sistema
 
